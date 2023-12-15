@@ -33,8 +33,7 @@ Train the KNN model on the training data using the fit() method.
 
 Use the predict() method to predict outliers in the test data.
 
-![image](https://github.com/freest-man/Outlier/assets/116303271/47d47818-3a31-4b47-98de-7c8b158443a6)
-
+![image](https://github.com/freest-man/Outlier/assets/116303271/4c1b4f97-408a-4ec5-8158-d3b1b2f61dba)
 
 The decision_function() method returns outlier scores for each data point.
 
